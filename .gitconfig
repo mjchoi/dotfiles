@@ -1,0 +1,9 @@
+[user]
+	name = Michael J. Choi
+	email = mjchoi45@gmail.com
+[core]
+	autocrlf = input
+	safecrlf = true
+	editor = vim
+[color]
+	ui = true
