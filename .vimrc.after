@@ -1,2 +1,7 @@
 set mouse=a
 colors ir_black
+
+highlight DiffAdd    cterm=none ctermbg=darkgrey ctermfg=green
+highlight DiffDelete cterm=none ctermbg=darkgrey ctermfg=black
+highlight DiffChange cterm=none ctermbg=yellow   ctermfg=black
+highlight DiffText   cterm=none ctermbg=red      ctermfg=black
