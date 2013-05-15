@@ -4,6 +4,7 @@ alias gd='git diff'
 alias go='git checkout'
 alias gr='git remote'
 alias gs='git status'
+alias gl='git log --oneline --decorate'
 
 alias worker='rake resque:work QUEUE="*"'
 
